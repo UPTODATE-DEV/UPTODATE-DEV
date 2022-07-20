@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uptodate Developers
-===========================================================================================================================================
+<img width="100%" height = "auto" src="https://i.imgur.com/0R0hECd.jpg" alt="cover" />
+
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=f97316&size=46&width=700&height=76&lines=Hi+%F0%9F%91%8B%2C+We+are+Uptodate+Developers" alt="Updev" /></h1>
 
 Software design and development startup
 ---------------------------------------
